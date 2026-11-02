@@ -1,0 +1,9 @@
+{
+  "path": "br-sp-birigui",
+  "code": "BR-SP-BIRIGUI",
+  "name": "Birigui (city)",
+  "level": "municipality",
+  "parent": "br-sp",
+  "repo": "https://github.com/lexifina/brazil-birigui-city-law",
+  "build": "built: the law of Birigui from the Câmara Municipal's SAPL"
+}

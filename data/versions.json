@@ -1,0 +1,151 @@
+{
+ "country": "BR-SP-BIRIGUI",
+ "acts": [
+  {
+   "slug": "lei-organica",
+   "short": "LOM-Birigui",
+   "title": "Lei Orgânica do Município de Birigui",
+   "url": "https://sapl.birigui.sp.leg.br/norma/7941",
+   "versions": [
+    {
+     "from": "1990-04-05",
+     "units": 197,
+     "source_url": "https://sapl.birigui.sp.leg.br/ta/243/text/vigencia/0,1990-04-05,2005-05-02:YrlIjRwBwphm0RhSvcj7qOVUFNk/",
+     "sha256": "e3ad3feabdafbfc7be1eedbb204655ffef6bc0fa295e7a2c3d555b2118540ee0"
+    },
+    {
+     "from": "2005-05-03",
+     "units": 197,
+     "source_url": "https://sapl.birigui.sp.leg.br/ta/243/text/vigencia/252,2005-05-03,2008-06-29:4G3B3GZZKWef9mubsC3Dy7j8LF4/",
+     "sha256": "d41e88c53422a676eea77474b8e6f317d1282db16c73b222b0acf9dea6e4c8ce"
+    },
+    {
+     "from": "2008-06-30",
+     "units": 197,
+     "source_url": "https://sapl.birigui.sp.leg.br/ta/243/text/vigencia/253,2008-06-30,2009-03-02:e0Drf_IyARpX0moBHfukA0mYu24/",
+     "sha256": "c00978a4f1881692125bbef9f2ad362d3983494921d4f8a1c6c6394370b6b827"
+    },
+    {
+     "from": "2009-03-03",
+     "units": 197,
+     "source_url": "https://sapl.birigui.sp.leg.br/ta/243/text/vigencia/254,2009-03-03,2011-02-02:6fpKCWxUStXlpd6DYR74GvMaED4/",
+     "sha256": "ba2e657197a83bab6ead3133fc22e8ed3cf3319226971f2472df320ca4623f69"
+    },
+    {
+     "from": "2011-02-03",
+     "units": 198,
+     "source_url": "https://sapl.birigui.sp.leg.br/ta/243/text/vigencia/255,2011-02-03,2011-06-21:yM1xIpRs9kBIgXa1Ta5_QPA5HjI/",
+     "sha256": "93e219d240d64515833d0e9da059bec0031dd7c4550d0c0da21574f86dab05ef"
+    },
+    {
+     "from": "2011-06-22",
+     "units": 198,
+     "source_url": "https://sapl.birigui.sp.leg.br/ta/243/text/vigencia/256,2011-06-22,2011-11-02:1J9I8yfbKGGCpK00AurEanaIGNk/",
+     "sha256": "c14b30d41cbf4266459e3bb6a4b08cd2dc9dc4950de0212f71d2ff89d6a8d527"
+    },
+    {
+     "from": "2011-11-03",
+     "units": 198,
+     "source_url": "https://sapl.birigui.sp.leg.br/ta/243/text/vigencia/257,2011-11-03,2013-05-21:yFP1LBuzeSZQ7b5Fv0N3IJ3VFjA/",
+     "sha256": "67892d70b62d34278718118f4ea0343f07fa0a1b01555148b1543b4b7a76e74d"
+    },
+    {
+     "from": "2013-05-22",
+     "units": 199,
+     "source_url": "https://sapl.birigui.sp.leg.br/ta/243/text/vigencia/259,2013-05-22,2013-12-19:A5N8Y71tatGFSRhB9jNmxHUAtn8/",
+     "sha256": "e6c15d9e8af62914248b1cf3069111c11e6413b6102c23ac42b69e92423d40a4"
+    },
+    {
+     "from": "2013-12-20",
+     "units": 199,
+     "source_url": "https://sapl.birigui.sp.leg.br/ta/243/text/vigencia/260,2013-12-20,2014-02-05:Bv8KmWFqjeXycVUhzrajtfbOtAA/",
+     "sha256": "9d95c8110f3d6f8354cfd96e68cd1759d013135aca223978ce0a41caae5f78dc"
+    },
+    {
+     "from": "2014-02-06",
+     "units": 199,
+     "source_url": "https://sapl.birigui.sp.leg.br/ta/243/text/vigencia/261,2014-02-06,2014-05-06:4xc27S2XPTHxFA-1Wqf4ZUdCJw8/",
+     "sha256": "6c1e40635fa00d20ba8ad3e320e8346fb456440b66124daf3424d32567b4ee34"
+    },
+    {
+     "from": "2014-05-07",
+     "units": 199,
+     "source_url": "https://sapl.birigui.sp.leg.br/ta/243/text/vigencia/262,2014-05-07,2017-06-20:CJhXszyk0lha3NWc06XadzrPwpI/",
+     "sha256": "88e91e62d52216e2f7d09c2ecafe48ef0d1516a1cd84c3743f0596d2dbd77f8e"
+    },
+    {
+     "from": "2017-06-21",
+     "units": 199,
+     "source_url": "https://sapl.birigui.sp.leg.br/ta/243/text/vigencia/263,2017-06-21,2019-10-15:S9reDx8BY0zQKZoJF9OLF5gr_5U/",
+     "sha256": "5926f84e28f49c13b868e2b22dcbe504db23efb7017c775f4e7fda3abdd3611f"
+    },
+    {
+     "from": "2019-10-16",
+     "units": 199,
+     "source_url": "https://sapl.birigui.sp.leg.br/ta/243/text/vigencia/264,2019-10-16,2020-02-11:XreLNq5PlhauanJx7D95M4C2qVA/",
+     "sha256": "af90b92e47b2476f1c14f69b8676b9378896e8d67353443dd8663c0bd7d25420"
+    },
+    {
+     "from": "2020-02-12",
+     "units": 199,
+     "source_url": "https://sapl.birigui.sp.leg.br/ta/243/text/vigencia/266,2020-02-12,2021-08-09:K79JgbWVGWaxrbhepndnP2k67bY/",
+     "sha256": "3f0eaf980517934cb95d65b87fdf7f5077fb17cc220f902f35232eef50fe5ff5"
+    },
+    {
+     "from": "2021-08-10",
+     "units": 200,
+     "source_url": "https://sapl.birigui.sp.leg.br/ta/243/text/vigencia/267,2021-08-10,2021-12-08:Zl3wDHjFk7QnZvGlDjhZPwMdZEk/",
+     "sha256": "b8213dd438208f2be46ebd6eb83556cc6d190679946352701a2c6c86c6075354"
+    },
+    {
+     "from": "2021-12-09",
+     "units": 200,
+     "source_url": "https://sapl.birigui.sp.leg.br/ta/243/text/vigencia/268,2021-12-09,2022-04-19:EvAHN2kQIwjT_Sz7uRGPAymM5M4/",
+     "sha256": "f0df2b329896e5d3b83e292684db35290546f8b60801e7497a997efd6947d586"
+    },
+    {
+     "from": "2022-04-20",
+     "units": 200,
+     "source_url": "https://sapl.birigui.sp.leg.br/ta/243/text/vigencia/269,2022-04-20,2022-06-21:qE3TfzkQaA82U0MH7ATExXyhAuY/",
+     "sha256": "ecdb9e7d515e95282e1ccf0870926848beb6f87e308453c4fbaf6a35a96e16a7"
+    },
+    {
+     "from": "2022-06-22",
+     "units": 200,
+     "source_url": "https://sapl.birigui.sp.leg.br/ta/243/text/vigencia/271,2022-06-22,2022-08-23:hhAOSQ3ikJiGbxn3nAV98y3okGI/",
+     "sha256": "4b3f9faf85500924c888f7c88ccd3b246fee1881d34edb35c7c354579380b967"
+    },
+    {
+     "from": "2022-08-24",
+     "units": 200,
+     "source_url": "https://sapl.birigui.sp.leg.br/ta/243/text/vigencia/272,2022-08-24,2022-09-13:yy_uN10HM2BAt5PvNSMYugB1QGM/",
+     "sha256": "16dae153e7dcdfb08cab9b078571ee1fdae11fe8d68265ddd8048eedb80f79a4"
+    },
+    {
+     "from": "2022-09-14",
+     "units": 200,
+     "source_url": "https://sapl.birigui.sp.leg.br/ta/243/text/vigencia/273,2022-09-14,2023-05-23:xcsl8AIZiLTz3SNHvGblqmaFvGY/",
+     "sha256": "11cf339433addedc18ab37a24db278b0968006d54ef0dfab6f8aa08ad84bb9f2"
+    },
+    {
+     "from": "2023-05-24",
+     "units": 200,
+     "source_url": "https://sapl.birigui.sp.leg.br/ta/243/text/vigencia/275,2023-05-24,2026-09-14:pQUQSvEiCjNnW8ncbky-pgL__l8/",
+     "sha256": "ee656367811c17c32ab808328cf83961f5800b33cfbc70268e6264f0713c2ce1"
+    },
+    {
+     "from": "2023-05-24",
+     "units": 200,
+     "source_url": "https://sapl.birigui.sp.leg.br/ta/243/text/vigencia/276,2023-05-24,2026-09-14:ZxAtIAFhXc0Z4_SPdoaWxK2oqnM/",
+     "sha256": "ae7b008a217bf2fe5e887de59f5ed69ab3b79022f61b04a9bb80d87977334a14"
+    },
+    {
+     "from": "2026-09-15",
+     "units": 200,
+     "source_url": "https://sapl.birigui.sp.leg.br/norma/7941",
+     "sha256": "83f4a8aec1f307d3499935ec8fef93823a3ddd6a63c6c77b7d599aa86d153eed"
+    }
+   ]
+  }
+ ]
+}
